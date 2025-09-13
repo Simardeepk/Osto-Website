@@ -26,11 +26,8 @@ Structure & Components
 
 Usage
 •	Navigation: Click navbar items to smoothly scroll to the corresponding section. Accessible for users to explore the page easily.
-•	Responsive Design:
-Layout adapts to different screen sizes using CSS flex/utility classes.
+•	Responsive Design: Layout adapts to different screen sizes using CSS flex/utility classes.
 
 Accessibility & Extensions
-•	Add more sections:
-Create new components/pages and wrap in a <Element name="..."> for smooth scroll nav.
-•	Accessibility:
-Use semantic HTML elements and ensure colour contrast for usability.
+•	Add more sections: Create new components/pages and wrap in a <Element name="..."> for smooth scroll nav.
+•	Accessibility: Use semantic HTML elements and ensure colour contrast for usability.
